@@ -1,6 +1,6 @@
 # Charles使用
 
-## https抓包
+## 抓包(https)
 
 1. 电脑和手机在同一个网域中（iyaya系列，waiguoyueliang系列皆可）
 2. 电脑端打开Charles
@@ -9,7 +9,7 @@
 5. 手机端在浏览器中输入http://charlesproxy.com/getssl 下载并安装证书  
 **注：一个Charles客户端对应一个手机端的证书，换电脑（Charles客户端）或者手机设备都需要重新安装证书**
 
-## Breakpoints 断点
+## 篡改(Breakpoints)
 
 > 主要用于篡改request请求参数或者response返回内容，达到一些异常场景的测试
 
@@ -24,11 +24,11 @@
 缺点：客户端处理一个请求如果15秒没有返回就会触发重试机制，导致篡改返回的时候速度要快，否则会失败。  
 后期这类型的测试考虑通过anyproxy设置rule进行mock。
 
-## repeat请求, Edit请求
+## 模拟请求
 
 > 右键点击某一个请求可以进行 repeat,edit等请求的重发，如果只需要看服务端返回，不需要客户端接收的话，可以考虑这种
 
-## Throttle 限速
+## 限速(Throttle)
 
 > 模拟不同上下行网速，丢包率等进行弱网测试
 
