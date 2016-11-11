@@ -1,5 +1,10 @@
 # http协议
 
+HTTP 协议入门：
+http://www.ruanyifeng.com/blog/2016/08/http.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+HTTPS 升级指南：
+http://www.ruanyifeng.com/blog/2016/08/migrate-from-http-to-https.html
+
 > HTTP是一个应用层协议，由请求和响应构成，是一个标准的客户端服务器模型。HTTP是一个无状态的协议。  
 > 默认HTTP的端口号为80，HTTPS的端口号为443。  
 > HTTP协议永远都是客户端发起请求，服务器回送响应。这样就限制了使用HTTP协议，无法实现在客户端没有发起请求的时候，服务器将消息推送给客户端。  
