@@ -40,11 +40,14 @@ some basic knowledge that QA should know
 
 ### [Android 常用 adb 命令总结](https://testerhome.com/topics/2565)
 
-## 10. 安全测试之sqlmap(待补充...)
+## 10. 同步与异步 | 前端渲染与后端渲染
 
-## 11. 安全测试之XSS跨域脚本攻击(待补充...)
+## 11. 安全测试之sqlmap(待补充...)
 
-## 12. anyproxy 命令行代理服务
+## 12. 安全测试之XSS跨域脚本攻击(待补充...)
+
+## 13. anyproxy 命令行代理服务
+ 
 
 自动化相关：
 [xpath路径表达式笔记](http://www.ruanyifeng.com/blog/2009/07/xpath_path_expressions.html)
