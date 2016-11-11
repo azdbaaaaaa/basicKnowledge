@@ -1,11 +1,8 @@
 # basicKnowledge
 some basic knowledge that QA should know
 
-<<<<<<< HEAD
+
 ## 1. [数据库常规操作(mongodb)](https://github.com/azdbaaaaaa/basicKnowledge/blob/master/数据库常规操作.md)
-=======
-1. [数据库常规操作(mongodb)](//数据库常规操作.md)
->>>>>>> d6d5e3a9d937ab0df139bcc9845ac98a3dc88cb1
 
 ## 2. Charles使用(截包，篡改，模拟请求)
 
