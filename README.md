@@ -1,7 +1,7 @@
 # basicKnowledge
 some basic knowledge that QA should know
 
-1. 数据库常规操作(mongodb)
+1. [数据库常规操作(mongodb)](//数据库常规操作.md)
 
 2. Charles使用(截包，篡改，模拟请求)
 
