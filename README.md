@@ -2,9 +2,9 @@
 some basic knowledge that QA should know
 
 
-## 1. [数据库常规操作(mongodb)](https://github.com/azdbaaaaaa/basicKnowledge/blob/master/src/数据库常规操作.md)
+## 1. [数据库常规操作](https://github.com/azdbaaaaaa/basicKnowledge/blob/master/src/数据库常规操作.md)(mongodb)
 
-## 2. Charles使用(截包，篡改，模拟请求)
+## 2. [Charles使用](https://github.com/azdbaaaaaa/basicKnowledge/blob/master/src/Charles使用.md)(截包，篡改，模拟请求)
 
 ## 3. TCP/IP协议
 
